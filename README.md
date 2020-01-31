@@ -1,6 +1,6 @@
 # The Gossiping Insert-Eliminate Algorithm for Multi-Agent Bandits
 
-This repository contains the implementation of Synch GoSInE and Asynch GoSInE algorithms in the paper:
+This repository contains the implementation of Synch GosInE and Asynch GosInE algorithms in the paper:
 
 [The Gossiping Insert-Eliminate Algorithm for Multi-Agent Bandits](https://arxiv.org/abs/2001.05452)
 
